@@ -1,6 +1,6 @@
 # School Library
 
->I Built an app to solve factorial, reverse, and fizzbuzz problems. I also add test with rspec.
+>I built an app to solve factorial, reverse, and fizzbuzz problems. I also added tests with rspec.
 
 ## Built with
   - Ruby
